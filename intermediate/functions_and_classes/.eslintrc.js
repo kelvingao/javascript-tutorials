@@ -8,5 +8,6 @@ module.exports = {
     strict: ['error', 'global'],
     'func-style': ['error', 'expression'],
     'new-cap': ['error'],
+    'no-invalid-this': 'error',
   },
 };
